@@ -1,0 +1,11 @@
+def operators():
+    print('addtions of two numbers',a+b)
+    print('subration of two numbers',a-b)
+    print('multiplication of two numbers',a*b)
+    print('division of two number',a/b)
+    print('square of two numbers',a**b)
+    
+a=int(input("a="))
+b=int(input('b='))
+operators()
+
